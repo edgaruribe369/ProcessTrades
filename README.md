@@ -11,5 +11,3 @@ Note that the relative/absolute path of your input/output files should be define
 
 * **Zach Antonas** - *Solution* - [zantonas](https://github.com/zantonas)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
